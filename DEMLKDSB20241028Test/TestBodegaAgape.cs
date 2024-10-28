@@ -1,12 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace DEMLKDSB20241028Test
+﻿namespace DEMLKDSB20241028Test
 {
-    internal class TestBodegaAgape
+    public class TestBodegaAgape
     {
     }
 }
